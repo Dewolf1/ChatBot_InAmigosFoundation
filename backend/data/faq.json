@@ -858,5 +858,71 @@
       "chhattisgarh",
       "495555"
     ]
+  },
+  {
+    "id": "greeting",
+    "question": "Hi hello hey good morning good afternoon good evening hii hiii",
+    "answer": "Hi! 👋 I'm the InAmigos Foundation assistant. Feel free to ask me about our programs, internships, volunteering, donations, or anything about the foundation!",
+    "tags": ["hi", "hello", "hey", "hii", "hiii", "good morning", "good afternoon", "good evening", "greetings", "namaste", "howdy", "sup", "yo"]
+  },
+  {
+    "id": "thanks",
+    "question": "Thank you thanks thankyou thank u thx",
+    "answer": "You're very welcome! 😊 If you have any more questions about InAmigos Foundation, feel free to ask anytime.",
+    "tags": ["thanks", "thank you", "thankyou", "thank u", "thx", "appreciate", "grateful", "ty"]
+  },
+  {
+    "id": "goodbye",
+    "question": "Bye goodbye see you later take care",
+    "answer": "Goodbye! 👋 Thank you for your interest in InAmigos Foundation. Visit us anytime at https://inamigosfoundation.org.in. Have a wonderful day!",
+    "tags": ["bye", "goodbye", "see you", "later", "take care", "goodnight", "good night"]
+  },
+  {
+    "id": "how-to-apply",
+    "question": "How can I apply for an internship or volunteer at InAmigos Foundation?",
+    "answer": "You can apply for internships and volunteer positions at InAmigos Foundation through their official website at https://inamigosfoundation.org.in or reach out via email at support@inamigosfoundation.org.in. You can also connect with them on LinkedIn or Instagram for the latest openings.",
+    "tags": ["apply", "application", "join", "sign up", "register", "how to apply", "enroll", "form", "internship apply", "volunteer apply"]
+  },
+  {
+    "id": "how-to-donate",
+    "question": "How can I donate to InAmigos Foundation?",
+    "answer": "You can donate to InAmigos Foundation through their official website at https://inamigosfoundation.org.in. The foundation is 80G and 12A certified, so your donations are eligible for tax benefits. For any donation queries, email support@inamigosfoundation.org.in.",
+    "tags": ["donate", "donation", "contribute", "give", "money", "support", "help", "fund", "how to donate", "payment"]
+  },
+  {
+    "id": "is-donation-tax-exempt",
+    "question": "Is my donation to InAmigos Foundation tax deductible?",
+    "answer": "Yes! InAmigos Foundation is 80G and 12A certified and approved by the Commissioner of Income Tax. Your donations are eligible for tax deduction under Section 80G of the Income Tax Act.",
+    "tags": ["tax", "deductible", "80g", "12a", "tax exempt", "tax benefit", "tax deduction"]
+  },
+  {
+    "id": "internship-stipend",
+    "question": "Is the internship paid at InAmigos Foundation? Do interns get a stipend?",
+    "answer": "The foundation's operational information mentions stipends or reimbursements for volunteers and interns, along with training sessions and resource materials. For specific details about compensation, please contact support@inamigosfoundation.org.in.",
+    "tags": ["paid", "stipend", "salary", "compensation", "money", "internship paid", "paid internship", "unpaid", "reimbursement"]
+  },
+  {
+    "id": "internship-certificate",
+    "question": "Will I get a certificate after the internship at InAmigos Foundation?",
+    "answer": "For details about certificates and recognition after completing your internship, please reach out to the team at support@inamigosfoundation.org.in.",
+    "tags": ["certificate", "certification", "letter of recommendation", "lor", "completion certificate", "internship certificate"]
+  },
+  {
+    "id": "phone-number",
+    "question": "What is the phone number or contact number of InAmigos Foundation?",
+    "answer": "For direct communication with InAmigos Foundation, please reach out via email at support@inamigosfoundation.org.in or info@inamigosfoundation.org.in. You can also connect through their social media profiles on Instagram, Facebook, LinkedIn, or X (Twitter).",
+    "tags": ["phone", "phone number", "contact number", "call", "mobile", "whatsapp", "number", "telephone"]
+  },
+  {
+    "id": "how-to-volunteer",
+    "question": "How can I volunteer with InAmigos Foundation?",
+    "answer": "InAmigos Foundation offers volunteer opportunities across multiple domains including Field Volunteer, Community Teacher, Social Work Volunteer, Fundraising Volunteer, and more. You can apply through their official website at https://inamigosfoundation.org.in or email support@inamigosfoundation.org.in.",
+    "tags": ["volunteer", "volunteering", "join", "help", "participate", "how to volunteer", "become volunteer"]
+  },
+  {
+    "id": "what-you-do",
+    "question": "What does InAmigos Foundation do? What are your activities and programs?",
+    "answer": "InAmigos Foundation runs multiple programs: Project Prakriti (20,000+ trees planted), Project Seva (50,000+ meals distributed), Project Udaan (900+ girls empowered), Project Jeev (street animal welfare), Project Bachpanshala (free education for rural children), and Project Vikas (skill development). They also conduct charity drives, cleanliness drives, and digital literacy workshops.",
+    "tags": ["what do you do", "activities", "programs", "projects", "work", "initiatives", "services"]
   }
 ]

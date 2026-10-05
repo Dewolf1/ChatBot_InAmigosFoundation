@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+backend/data/unanswered_log.jsonl
+.DS_Store
+
+# Real org knowledge base stays local/private — never pushed to a public repo.
+# faq.sample.json (tracked) shows the format with placeholder content instead.
+backend/data/faq.json

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>InAmigos Foundation — Widget Demo Host Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #F4EFE3;
+      margin: 0;
+      padding: 40px;
+      color: #23281F;
+    }
+
+    .card {
+      max-width: 640px;
+      margin: 0 auto;
+      background: #fff;
+      border: 1px solid #DED2B5;
+      border-radius: 10px;
+      padding: 28px 32px;
+    }
+
+    h1 {
+      color: #1F4B43;
+      font-size: 22px;
+    }
+
+    p {
+      line-height: 1.5;
+      font-size: 14px;
+    }
+
+    code {
+      background: #FBF8F1;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <h1>This is a stand-in for the NGO's real website</h1>
+    <p>
+      This page represents <em>any</em> site the chat widget gets embedded into.
+      It doesn't know anything about the chatbot's backend, FAQ data, or logic
+      it just loads one script tag, same as embedding a Tawk.to or Intercom widget.
+    </p>
+    <p>Click the chat bubble in the bottom-right corner to try it.</p>
+    <p>Try asking: <code>how can i donate</code>, <code>is the internship paid</code>,
+      <code>are you a registered ngo</code>, or something off-topic like <code>tell me a joke</code> to see the LLM
+      fallback kick in.</p>
+  </div>
+
+  <!-- This is the ONLY line a real website needs to add. -->
+  <script src="widget/widget.js" data-api="http://localhost:8000" data-org="InAmigos Foundation"></script>
+</body>
+
+</html>

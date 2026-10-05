@@ -1,0 +1,32 @@
+[
+  {
+    "id": "about-org",
+    "question": "What is this organization?",
+    "answer": "This is a sample entry. Replace backend/data/faq.json (not this file) with your organization's real content — see README.md 'Keeping NGO data private'.",
+    "tags": ["about", "organization", "mission"]
+  },
+  {
+    "id": "how-to-donate",
+    "question": "How can I donate?",
+    "answer": "Sample answer — point this at your real donation page / payment details once you fill in the real faq.json.",
+    "tags": ["donate", "donation", "payment", "contribute"]
+  },
+  {
+    "id": "how-to-volunteer",
+    "question": "How can I volunteer?",
+    "answer": "Sample answer — describe your real volunteering process here in the real faq.json.",
+    "tags": ["volunteer", "volunteering", "join", "help"]
+  },
+  {
+    "id": "greeting",
+    "question": "Hi / Hello / Hey",
+    "answer": "Hi! 👋 I'm this organization's assistant. Ask me about donating, volunteering, or our programs.",
+    "tags": ["hi", "hello", "hey", "greeting"]
+  },
+  {
+    "id": "thanks",
+    "question": "Thank you / thanks",
+    "answer": "You're very welcome! Let us know if there's anything else you'd like to know. 🙂",
+    "tags": ["thanks", "thank you", "appreciate"]
+  }
+]

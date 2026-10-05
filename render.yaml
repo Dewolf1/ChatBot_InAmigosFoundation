@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: inamigos-chatbot-backend
+    env: python
+    buildCommand: "cd backend && pip install -r requirements.txt"
+    startCommand: "cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: LLM_PROVIDER
+        value: openai # Or 'anthropic'. Remove if you don't want to use an LLM
+      - key: OPENAI_API_KEY
+        sync: false # You will enter this directly in the Render dashboard
+      - key: ADMIN_KEY
+        sync: false # Set a secure password here in the Render dashboard for accessing /admin/unanswered

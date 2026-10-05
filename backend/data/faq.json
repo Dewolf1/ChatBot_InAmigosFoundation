@@ -1,0 +1,152 @@
+[
+  {
+    "id": "about-org",
+    "question": "What is InAmigos Foundation?",
+    "answer": "InAmigos Foundation (IAF) is an NGO licensed by the Central Government and registered under Section 8 of the Companies Act, 2013. Based in Bilaspur, Chhattisgarh, we were founded on 23rd September 2020 and work across education, nutrition, animal welfare, and community support. Our motto is \"Uniting Minds For Change.\"",
+    "tags": ["about", "organization", "mission", "inamigos"]
+  },
+  {
+    "id": "vision",
+    "question": "What is InAmigos Foundation's vision?",
+    "answer": "To create a compassionate and inclusive society where every individual has access to education, nutrition, healthcare, and dignity — a world where no one is left behind.",
+    "tags": ["vision", "mission", "goal", "purpose"]
+  },
+  {
+    "id": "is-donation-tax-exempt",
+    "question": "Is my donation tax deductible?",
+    "answer": "Yes. InAmigos Foundation is 80G and 12A certified, approved by the Commissioner of Income Tax, so donations are eligible for tax deduction.",
+    "tags": ["donate", "tax", "80g", "12a", "exemption", "deduction"]
+  },
+  {
+    "id": "how-to-donate",
+    "question": "How can I donate to InAmigos Foundation?",
+    "answer": "You can donate through our official website at https://inamigosfoundation.org.in, or contact us directly at support@inamigosfoundation.org.in for bank transfer / UPI details. Donations are 80G/12A tax-deductible.",
+    "tags": ["donate", "donation", "payment", "contribute", "give money"]
+  },
+  {
+    "id": "where-funds-used",
+    "question": "Where will my donation / the funds be used?",
+    "answer": "Funds go toward four main areas: Food Drives (daily meals, nutrition kits, dry ration kits), Social Work (education sponsorship, health camps, vocational training), Charity Drives (winter clothes, medical emergency support, school supplies), and Cleanliness Drives (street cleaning, waste segregation, plastic-free zones). A portion also covers operational costs like website hosting, compliance/auditing, and volunteer support.",
+    "tags": ["funds", "donation use", "where money goes", "transparency", "spending"]
+  },
+  {
+    "id": "how-to-volunteer",
+    "question": "How can I volunteer with InAmigos Foundation?",
+    "answer": "You can apply for one of our volunteer or internship roles — Field Volunteer, Community Teacher, Social Work Volunteer, Fundraising Volunteer, and more. Email your interest to support@inamigosfoundation.org.in or check our listings on Internshala.",
+    "tags": ["volunteer", "volunteering", "join", "help", "get involved"]
+  },
+  {
+    "id": "internship-domains",
+    "question": "What internship domains does InAmigos Foundation offer?",
+    "answer": "We run 1–3 month internship programs across: Field Volunteer, Community Teacher, Graphic Design, Community Management, Social Work Volunteer, Content Writing, Fundraising Volunteer, Social Entrepreneurship, AI & Web Development, and Research & Analytics.",
+    "tags": ["internship", "internships", "domains", "roles", "positions", "apply", "intern", "kinds", "types", "programs", "kind of internships", "types of internships", "kinds of internships"]
+  },
+  {
+    "id": "internship-apply",
+    "question": "How do I apply for an internship at InAmigos Foundation?",
+    "answer": "Internship openings are posted on Internshala and shared through our social media. You can also email your resume directly to support@inamigosfoundation.org.in.",
+    "tags": ["internship", "internships", "apply", "intern", "job", "how to join"]
+  },
+  {
+    "id": "internship-stipend",
+    "question": "Is the internship paid?",
+    "answer": "Stipend structure varies by role — some internships (especially fundraising-linked roles) offer a stipend tied to donations raised, others are unpaid but include a certificate and letter of recommendation. Check your specific offer letter or ask support@inamigosfoundation.org.in for details.",
+    "tags": ["internship", "internships", "stipend", "pay", "salary", "money", "paid"]
+  },
+  {
+    "id": "internship-duration",
+    "question": "How long are InAmigos Foundation internships?",
+    "answer": "Most internship programs run 1 to 3 months, though exact duration depends on the specific role and is confirmed in your offer letter.",
+    "tags": ["internship", "internships", "duration", "how long", "weeks", "months"]
+  },
+  {
+    "id": "internship-certificate",
+    "question": "Will I get a certificate after my internship?",
+    "answer": "Yes, interns who complete their assigned responsibilities receive a completion certificate at the end of the internship.",
+    "tags": ["certificate", "internship", "internships", "completion", "proof"]
+  },
+  {
+    "id": "project-prakriti",
+    "question": "What is Project Prakriti?",
+    "answer": "Project Prakriti is our environmental restoration initiative — over 20,000 trees planted through mass plantation drives across Chhattisgarh.",
+    "tags": ["prakriti", "trees", "environment", "plantation", "project"]
+  },
+  {
+    "id": "project-seva",
+    "question": "What is Project Seva?",
+    "answer": "Project Seva has distributed over 50,000 meals — daily hot meals to slum areas, orphanages, and festival community kitchens.",
+    "tags": ["seva", "meals", "food", "project", "hunger"]
+  },
+  {
+    "id": "project-udaan",
+    "question": "What is Project Udaan?",
+    "answer": "Project Udaan has empowered 900+ girls through digital campaigns focused on education and skill development.",
+    "tags": ["udaan", "girls", "empowerment", "project", "education"]
+  },
+  {
+    "id": "project-jeev",
+    "question": "What does InAmigos Foundation do for animal welfare? (Project Jeev)",
+    "answer": "Project Jeev feeds 50+ animals daily through street animal feeding drives and veterinary welfare support.",
+    "tags": ["jeev", "animal", "welfare", "rescue", "stray", "dogs", "feeding", "street", "street animals", "help animals"]
+  },
+  {
+    "id": "project-bachpanshala",
+    "question": "What is Project Bachpanshala?",
+    "answer": "Project Bachpanshala has educated hundreds of children by providing free education, books, stationery, and mentoring for rural children.",
+    "tags": ["bachpanshala", "education", "children", "school", "project"]
+  },
+  {
+    "id": "project-vikas",
+    "question": "What is Project Vikas?",
+    "answer": "Project Vikas focuses on new skill development — promoting creativity and innovation through practical learning. It also covers our tech-for-good work: AI for Social Good, web content development, research & analytics, and digital literacy camps in rural communities.",
+    "tags": ["vikas", "skill development", "tech", "ai", "digital literacy", "project"]
+  },
+  {
+    "id": "registration-details",
+    "question": "Is InAmigos Foundation a registered organization?",
+    "answer": "Yes. InAmigos Foundation is registered under Section 8 of the Companies Act, 2013 (CIN: U85300CT2020NPL010641), NGO Darpan registered with NITI Aayog (Reg: CG/2021/0295684), CSR-1 registered (CSR00083159), and 80G/12A certified by the Income Tax Department.",
+    "tags": ["registration", "registered", "legal", "legit", "legitimate", "verified", "csr", "official", "ngo", "real", "genuine", "credentials"]
+  },
+  {
+    "id": "iso-certification",
+    "question": "Is InAmigos Foundation ISO certified?",
+    "answer": "Yes, InAmigos Foundation holds ISO 9001:2015 certification (an internationally accredited Quality Management System), certificate number QCC/D5A4/1224.",
+    "tags": ["iso", "certification", "quality", "9001"]
+  },
+  {
+    "id": "pm-care",
+    "question": "Has InAmigos Foundation contributed to any government relief funds?",
+    "answer": "Yes, InAmigos Foundation donated ₹30,000 to the PM CARES Fund in its founding year.",
+    "tags": ["pm care", "pm cares", "government", "relief fund", "donation history"]
+  },
+  {
+    "id": "covid-relief",
+    "question": "What did InAmigos Foundation do during COVID-19?",
+    "answer": "During COVID-19, we distributed food to over 1,500 people, stationery to students in Kolkata, clothes across Chhattisgarh, masks and sanitizers in rural areas, food to street animals, and visited orphanages to check on residents' health and wellbeing.",
+    "tags": ["covid", "pandemic", "relief", "covid-19"]
+  },
+  {
+    "id": "location",
+    "question": "Where is InAmigos Foundation located?",
+    "answer": "InAmigos Foundation is based in Bilaspur, Chhattisgarh, India — 495555. Many roles are remote/work-from-home, with some field-based volunteering opportunities near Bilaspur.",
+    "tags": ["location", "address", "where", "city", "bilaspur", "chhattisgarh", "office"]
+  },
+  {
+    "id": "contact-info",
+    "question": "How can I contact InAmigos Foundation?",
+    "answer": "You can reach us at support@inamigosfoundation.org.in or info@inamigosfoundation.org.in, or through our website https://inamigosfoundation.org.in. We're also on Facebook, Instagram, LinkedIn, and X (@inamigosf).",
+    "tags": ["contact", "email", "reach", "phone", "social media"]
+  },
+  {
+    "id": "greeting",
+    "question": "Hi / Hello / Hey",
+    "answer": "Hi! 👋 I'm the InAmigos Foundation assistant. I can help with questions about donating, volunteering, internships, or our programs. What would you like to know?",
+    "tags": ["hi", "hello", "hey", "greeting"]
+  },
+  {
+    "id": "thanks",
+    "question": "Thank you / thanks",
+    "answer": "You're very welcome! Let us know if there's anything else you'd like to know about InAmigos Foundation. 🙂",
+    "tags": ["thanks", "thank you", "appreciate"]
+  }
+]

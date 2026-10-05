@@ -2,151 +2,861 @@
   {
     "id": "about-org",
     "question": "What is InAmigos Foundation?",
-    "answer": "InAmigos Foundation (IAF) is an NGO licensed by the Central Government and registered under Section 8 of the Companies Act, 2013. Based in Bilaspur, Chhattisgarh, we were founded on 23rd September 2020 and work across education, nutrition, animal welfare, and community support. Our motto is \"Uniting Minds For Change.\"",
-    "tags": ["about", "organization", "mission", "inamigos"]
+    "answer": "InAmigos Foundation (IAF) is an NGO licensed by the Central Government and registered under Section 8 of the Companies Act, 2013. Based in Bilaspur, Chhattisgarh, the foundation was founded on 23rd September 2020 and works for the betterment of society by uniting minds, hearts, and hands for meaningful change.",
+    "tags": [
+      "about",
+      "organization",
+      "mission",
+      "inamigos",
+      "ngo"
+    ]
   },
   {
-    "id": "vision",
-    "question": "What is InAmigos Foundation's vision?",
-    "answer": "To create a compassionate and inclusive society where every individual has access to education, nutrition, healthcare, and dignity — a world where no one is left behind.",
-    "tags": ["vision", "mission", "goal", "purpose"]
+    "id": "org-location",
+    "question": "Where is InAmigos Foundation located?",
+    "answer": "InAmigos Foundation is based in Bilaspur, Chhattisgarh.",
+    "tags": [
+      "location",
+      "bilaspur",
+      "chhattisgarh",
+      "address"
+    ]
   },
   {
-    "id": "is-donation-tax-exempt",
-    "question": "Is my donation tax deductible?",
-    "answer": "Yes. InAmigos Foundation is 80G and 12A certified, approved by the Commissioner of Income Tax, so donations are eligible for tax deduction.",
-    "tags": ["donate", "tax", "80g", "12a", "exemption", "deduction"]
+    "id": "org-founded",
+    "question": "When was InAmigos Foundation founded?",
+    "answer": "InAmigos Foundation was founded on 23rd September 2020.",
+    "tags": [
+      "founded",
+      "2020",
+      "history",
+      "about"
+    ]
   },
   {
-    "id": "how-to-donate",
-    "question": "How can I donate to InAmigos Foundation?",
-    "answer": "You can donate through our official website at https://inamigosfoundation.org.in, or contact us directly at support@inamigosfoundation.org.in for bank transfer / UPI details. Donations are 80G/12A tax-deductible.",
-    "tags": ["donate", "donation", "payment", "contribute", "give money"]
+    "id": "org-motto",
+    "question": "What is the motto of InAmigos Foundation?",
+    "answer": "The motto of InAmigos Foundation is \"Uniting Minds For Change.\"",
+    "tags": [
+      "motto",
+      "mission",
+      "about",
+      "slogan"
+    ]
   },
   {
-    "id": "where-funds-used",
-    "question": "Where will my donation / the funds be used?",
-    "answer": "Funds go toward four main areas: Food Drives (daily meals, nutrition kits, dry ration kits), Social Work (education sponsorship, health camps, vocational training), Charity Drives (winter clothes, medical emergency support, school supplies), and Cleanliness Drives (street cleaning, waste segregation, plastic-free zones). A portion also covers operational costs like website hosting, compliance/auditing, and volunteer support.",
-    "tags": ["funds", "donation use", "where money goes", "transparency", "spending"]
+    "id": "org-vision",
+    "question": "What is the vision of InAmigos Foundation?",
+    "answer": "The vision of InAmigos Foundation is to create a compassionate and inclusive society where every individual has access to education, nutrition, healthcare, and dignity—a world where no one is left behind.",
+    "tags": [
+      "vision",
+      "mission",
+      "education",
+      "nutrition",
+      "healthcare",
+      "dignity"
+    ]
   },
   {
-    "id": "how-to-volunteer",
-    "question": "How can I volunteer with InAmigos Foundation?",
-    "answer": "You can apply for one of our volunteer or internship roles — Field Volunteer, Community Teacher, Social Work Volunteer, Fundraising Volunteer, and more. Email your interest to support@inamigosfoundation.org.in or check our listings on Internshala.",
-    "tags": ["volunteer", "volunteering", "join", "help", "get involved"]
+    "id": "org-registration",
+    "question": "Is InAmigos Foundation a registered NGO?",
+    "answer": "Yes. InAmigos Foundation is licensed by the Central Government and registered under Section 8 of the Companies Act, 2013.",
+    "tags": [
+      "registration",
+      "registered",
+      "ngo",
+      "section 8",
+      "government"
+    ]
   },
   {
-    "id": "internship-domains",
-    "question": "What internship domains does InAmigos Foundation offer?",
-    "answer": "We run 1–3 month internship programs across: Field Volunteer, Community Teacher, Graphic Design, Community Management, Social Work Volunteer, Content Writing, Fundraising Volunteer, Social Entrepreneurship, AI & Web Development, and Research & Analytics.",
-    "tags": ["internship", "internships", "domains", "roles", "positions", "apply", "intern", "kinds", "types", "programs", "kind of internships", "types of internships", "kinds of internships"]
+    "id": "central-government",
+    "question": "Is InAmigos Foundation licensed by the Central Government?",
+    "answer": "Yes. InAmigos Foundation is licensed by the Central Government and incorporated under Section 8 of the Companies Act, 2013.",
+    "tags": [
+      "government",
+      "licensed",
+      "central government",
+      "section 8"
+    ]
   },
   {
-    "id": "internship-apply",
-    "question": "How do I apply for an internship at InAmigos Foundation?",
-    "answer": "Internship openings are posted on Internshala and shared through our social media. You can also email your resume directly to support@inamigosfoundation.org.in.",
-    "tags": ["internship", "internships", "apply", "intern", "job", "how to join"]
+    "id": "80g-12a",
+    "question": "Does InAmigos Foundation have 80G and 12A certification?",
+    "answer": "Yes. InAmigos Foundation is 80G and 12A certified and approved by the Commissioner of Income Tax.",
+    "tags": [
+      "80g",
+      "12a",
+      "tax",
+      "certification",
+      "donation"
+    ]
   },
   {
-    "id": "internship-stipend",
-    "question": "Is the internship paid?",
-    "answer": "Stipend structure varies by role — some internships (especially fundraising-linked roles) offer a stipend tied to donations raised, others are unpaid but include a certificate and letter of recommendation. Check your specific offer letter or ask support@inamigosfoundation.org.in for details.",
-    "tags": ["internship", "internships", "stipend", "pay", "salary", "money", "paid"]
+    "id": "ngo-darpan",
+    "question": "Is InAmigos Foundation registered with NGO Darpan?",
+    "answer": "Yes. InAmigos Foundation is registered with NGO Darpan and listed with NITI Aayog. The NGO Darpan registration number listed in the foundation's material is CG/2021/0295684.",
+    "tags": [
+      "ngo darpan",
+      "niti aayog",
+      "registration",
+      "government"
+    ]
   },
   {
-    "id": "internship-duration",
-    "question": "How long are InAmigos Foundation internships?",
-    "answer": "Most internship programs run 1 to 3 months, though exact duration depends on the specific role and is confirmed in your offer letter.",
-    "tags": ["internship", "internships", "duration", "how long", "weeks", "months"]
+    "id": "niti-aayog",
+    "question": "Is InAmigos Foundation listed with NITI Aayog?",
+    "answer": "Yes. InAmigos Foundation is listed with NITI Aayog through its NGO Darpan registration.",
+    "tags": [
+      "niti aayog",
+      "ngo darpan",
+      "government",
+      "registration"
+    ]
   },
   {
-    "id": "internship-certificate",
-    "question": "Will I get a certificate after my internship?",
-    "answer": "Yes, interns who complete their assigned responsibilities receive a completion certificate at the end of the internship.",
-    "tags": ["certificate", "internship", "internships", "completion", "proof"]
+    "id": "csr-registration",
+    "question": "Is InAmigos Foundation CSR-1 registered?",
+    "answer": "Yes. InAmigos Foundation is CSR-1 registered with the Ministry of Corporate Affairs and is eligible for corporate CSR fund contributions. The CSR registration number listed is CSR00083159.",
+    "tags": [
+      "csr",
+      "csr-1",
+      "corporate",
+      "csr funds",
+      "registration"
+    ]
+  },
+  {
+    "id": "iso-certification",
+    "question": "Does InAmigos Foundation have ISO certification?",
+    "answer": "Yes. InAmigos Foundation has an ISO 9001:2015 quality management system. The certificate number listed is QCC/D5A4/1224.",
+    "tags": [
+      "iso",
+      "iso 9001",
+      "certification",
+      "quality",
+      "qms"
+    ]
+  },
+  {
+    "id": "trademark",
+    "question": "Is the InAmigos Foundation brand trademarked?",
+    "answer": "The foundation's material states that its logo and brand are approved and trademarked by the Government.",
+    "tags": [
+      "trademark",
+      "brand",
+      "logo",
+      "government"
+    ]
+  },
+  {
+    "id": "financial-transparency",
+    "question": "How does InAmigos Foundation maintain financial transparency?",
+    "answer": "The foundation states that monthly GST records, auditing, and annual reports are maintained as part of its financial transparency practices.",
+    "tags": [
+      "financial",
+      "transparency",
+      "audit",
+      "gst",
+      "annual reports"
+    ]
+  },
+  {
+    "id": "pm-care-donation",
+    "question": "Did InAmigos Foundation donate to PM CARES Fund?",
+    "answer": "Yes. The foundation's material states that it donated ₹30,000 to the PM CARES Fund in its founding year.",
+    "tags": [
+      "pm cares",
+      "donation",
+      "covid",
+      "charity",
+      "2020"
+    ]
+  },
+  {
+    "id": "incorporation-certificate",
+    "question": "What is the CIN of InAmigos Foundation?",
+    "answer": "The CIN listed in the foundation's material is U85300CT2020NPL010641.",
+    "tags": [
+      "cin",
+      "incorporation",
+      "registration",
+      "company"
+    ]
+  },
+  {
+    "id": "ngo-darpan-number",
+    "question": "What is the NGO Darpan registration number of InAmigos Foundation?",
+    "answer": "The NGO Darpan registration number listed in the foundation's material is CG/2021/0295684.",
+    "tags": [
+      "ngo darpan",
+      "registration number",
+      "registration",
+      "niti aayog"
+    ]
+  },
+  {
+    "id": "pan-tan",
+    "question": "What are the PAN and TAN details of InAmigos Foundation?",
+    "answer": "The PAN listed is AAFCI8183C and the TAN listed is JBP101267A.",
+    "tags": [
+      "pan",
+      "tan",
+      "tax",
+      "income tax",
+      "registration"
+    ]
+  },
+  {
+    "id": "csr-number",
+    "question": "What is the CSR registration number of InAmigos Foundation?",
+    "answer": "The CSR registration number listed in the foundation's material is CSR00083159.",
+    "tags": [
+      "csr",
+      "csr registration",
+      "registration number"
+    ]
+  },
+  {
+    "id": "gst-number",
+    "question": "What is the GST registration number of InAmigos Foundation?",
+    "answer": "The GST registration number listed in the foundation's material is 22AAFCI8183C1ZR.",
+    "tags": [
+      "gst",
+      "gst number",
+      "tax",
+      "registration"
+    ]
+  },
+  {
+    "id": "core-team",
+    "question": "Who are the members of the InAmigos Foundation core team?",
+    "answer": "The foundation's material identifies Govind Shukla as Founder – CEO; Iniya Radhakrishnan as Dy. HR Director and HR Head; Shivani Tyagi and Khush Gupta among the core team; Vignesh as HR Operations Lead; Padmasri and Shahira Bhanu as Sr. HR Managers; Madhusudan as CSR Lead; Poornima Gontiya as Lead Sr. Graphic Designer; Vivek Chandravanshi as Jr. HR Manager; and Zonash Fatima and Dr. Afziya Waseem Qadri as Jr. HR Managers.",
+    "tags": [
+      "team",
+      "core team",
+      "founder",
+      "hr",
+      "management"
+    ]
+  },
+  {
+    "id": "founder",
+    "question": "Who is the founder and CEO of InAmigos Foundation?",
+    "answer": "The foundation's core-team section identifies Govind Shukla as the Founder – CEO.",
+    "tags": [
+      "founder",
+      "ceo",
+      "govind shukla",
+      "leadership"
+    ]
+  },
+  {
+    "id": "core-team-role",
+    "question": "What does the InAmigos Foundation core team do?",
+    "answer": "The core team is described as the backbone of InAmigos Foundation. The team brings vision, dedication, and expertise to projects, contributing to strategy, planning, hands-on execution, and the foundation's mission of \"Uniting Minds for Change.\"",
+    "tags": [
+      "core team",
+      "team",
+      "mission",
+      "management",
+      "projects"
+    ]
   },
   {
     "id": "project-prakriti",
     "question": "What is Project Prakriti?",
-    "answer": "Project Prakriti is our environmental restoration initiative — over 20,000 trees planted through mass plantation drives across Chhattisgarh.",
-    "tags": ["prakriti", "trees", "environment", "plantation", "project"]
+    "answer": "Project Prakriti focuses on environmental restoration through mass plantation drives across Chhattisgarh. The foundation reports more than 20,000 trees planted.",
+    "tags": [
+      "prakriti",
+      "trees",
+      "environment",
+      "plantation",
+      "restoration"
+    ]
+  },
+  {
+    "id": "trees-planted",
+    "question": "How many trees has InAmigos Foundation planted?",
+    "answer": "The foundation reports that more than 20,000 trees have been planted through its environmental restoration and plantation initiatives.",
+    "tags": [
+      "trees",
+      "20k",
+      "20,000",
+      "prakriti",
+      "environment"
+    ]
   },
   {
     "id": "project-seva",
     "question": "What is Project Seva?",
-    "answer": "Project Seva has distributed over 50,000 meals — daily hot meals to slum areas, orphanages, and festival community kitchens.",
-    "tags": ["seva", "meals", "food", "project", "hunger"]
+    "answer": "Project Seva provides daily hot meals to slum areas and orphanages and supports community kitchens during festivals. The foundation reports more than 50,000 meals distributed.",
+    "tags": [
+      "seva",
+      "food",
+      "meals",
+      "nutrition",
+      "community kitchen"
+    ]
+  },
+  {
+    "id": "meals-distributed",
+    "question": "How many meals has InAmigos Foundation distributed?",
+    "answer": "The foundation reports that more than 50,000 meals have been distributed through Project Seva.",
+    "tags": [
+      "meals",
+      "50k",
+      "50,000",
+      "seva",
+      "food"
+    ]
   },
   {
     "id": "project-udaan",
     "question": "What is Project Udaan?",
-    "answer": "Project Udaan has empowered 900+ girls through digital campaigns focused on education and skill development.",
-    "tags": ["udaan", "girls", "empowerment", "project", "education"]
+    "answer": "Project Udaan focuses on empowering girls through education and skill development using digital campaigns. The foundation reports more than 900 girls empowered.",
+    "tags": [
+      "udaan",
+      "girls",
+      "education",
+      "skill development",
+      "empowerment"
+    ]
+  },
+  {
+    "id": "girls-empowered",
+    "question": "How many girls has InAmigos Foundation empowered?",
+    "answer": "The foundation reports that more than 900 girls have been empowered through Project Udaan.",
+    "tags": [
+      "girls",
+      "900",
+      "empowerment",
+      "udaan",
+      "education"
+    ]
   },
   {
     "id": "project-jeev",
-    "question": "What does InAmigos Foundation do for animal welfare? (Project Jeev)",
-    "answer": "Project Jeev feeds 50+ animals daily through street animal feeding drives and veterinary welfare support.",
-    "tags": ["jeev", "animal", "welfare", "rescue", "stray", "dogs", "feeding", "street", "street animals", "help animals"]
+    "question": "What is Project Jeev?",
+    "answer": "Project Jeev focuses on street animal welfare through animal feeding drives and veterinary welfare support. The foundation reports that more than 50 animals are fed daily.",
+    "tags": [
+      "jeev",
+      "animals",
+      "animal welfare",
+      "feeding",
+      "veterinary"
+    ]
+  },
+  {
+    "id": "animals-fed",
+    "question": "How does InAmigos Foundation support street animals?",
+    "answer": "Through Project Jeev, the foundation conducts street animal feeding drives and provides veterinary welfare support. The foundation reports feeding more than 50 animals daily.",
+    "tags": [
+      "animals",
+      "street animals",
+      "jeev",
+      "feeding",
+      "veterinary"
+    ]
   },
   {
     "id": "project-bachpanshala",
     "question": "What is Project Bachpanshala?",
-    "answer": "Project Bachpanshala has educated hundreds of children by providing free education, books, stationery, and mentoring for rural children.",
-    "tags": ["bachpanshala", "education", "children", "school", "project"]
+    "answer": "Project Bachpanshala provides free education for rural children, including books, stationery, and mentoring. The foundation reports that hundreds of children have been educated.",
+    "tags": [
+      "bachpanshala",
+      "children",
+      "education",
+      "rural",
+      "mentoring"
+    ]
   },
   {
     "id": "project-vikas",
     "question": "What is Project Vikas?",
-    "answer": "Project Vikas focuses on new skill development — promoting creativity and innovation through practical learning. It also covers our tech-for-good work: AI for Social Good, web content development, research & analytics, and digital literacy camps in rural communities.",
-    "tags": ["vikas", "skill development", "tech", "ai", "digital literacy", "project"]
+    "answer": "Project Vikas promotes skill development, creativity, and innovation through practical learning opportunities.",
+    "tags": [
+      "vikas",
+      "skills",
+      "skill development",
+      "creativity",
+      "innovation"
+    ]
   },
   {
-    "id": "registration-details",
-    "question": "Is InAmigos Foundation a registered organization?",
-    "answer": "Yes. InAmigos Foundation is registered under Section 8 of the Companies Act, 2013 (CIN: U85300CT2020NPL010641), NGO Darpan registered with NITI Aayog (Reg: CG/2021/0295684), CSR-1 registered (CSR00083159), and 80G/12A certified by the Income Tax Department.",
-    "tags": ["registration", "registered", "legal", "legit", "legitimate", "verified", "csr", "official", "ngo", "real", "genuine", "credentials"]
+    "id": "food-drives",
+    "question": "What food-related activities does InAmigos Foundation conduct?",
+    "answer": "The foundation conducts daily meal distribution in slum areas and orphanages, provides nutrition kits for pregnant women and children, operates community kitchens during festivals and emergencies, distributes dry ration kits for low-income families, and runs \"No food waste\" campaigns to collect surplus food.",
+    "tags": [
+      "food",
+      "meals",
+      "nutrition",
+      "food drives",
+      "ration",
+      "community kitchen",
+      "food waste"
+    ]
   },
   {
-    "id": "iso-certification",
-    "question": "Is InAmigos Foundation ISO certified?",
-    "answer": "Yes, InAmigos Foundation holds ISO 9001:2015 certification (an internationally accredited Quality Management System), certificate number QCC/D5A4/1224.",
-    "tags": ["iso", "certification", "quality", "9001"]
+    "id": "nutrition-kits",
+    "question": "Does InAmigos Foundation provide nutrition kits?",
+    "answer": "Yes. The foundation's food-drive activities include nutrition kits for pregnant women and children.",
+    "tags": [
+      "nutrition",
+      "nutrition kits",
+      "pregnant women",
+      "children",
+      "food"
+    ]
   },
   {
-    "id": "pm-care",
-    "question": "Has InAmigos Foundation contributed to any government relief funds?",
-    "answer": "Yes, InAmigos Foundation donated ₹30,000 to the PM CARES Fund in its founding year.",
-    "tags": ["pm care", "pm cares", "government", "relief fund", "donation history"]
+    "id": "community-kitchens",
+    "question": "Does InAmigos Foundation operate community kitchens?",
+    "answer": "Yes. The foundation conducts community kitchens during festivals and emergencies.",
+    "tags": [
+      "community kitchen",
+      "food",
+      "emergency",
+      "festivals",
+      "meals"
+    ]
+  },
+  {
+    "id": "ration-kits",
+    "question": "Does InAmigos Foundation distribute ration kits?",
+    "answer": "Yes. The foundation distributes dry ration kits to low-income families as part of its food-related activities.",
+    "tags": [
+      "ration",
+      "dry ration",
+      "low income",
+      "food",
+      "families"
+    ]
+  },
+  {
+    "id": "food-waste",
+    "question": "Does InAmigos Foundation work to reduce food waste?",
+    "answer": "Yes. The foundation runs \"No food waste\" campaigns to collect surplus food.",
+    "tags": [
+      "food waste",
+      "surplus food",
+      "no food waste",
+      "food"
+    ]
+  },
+  {
+    "id": "social-work",
+    "question": "What social work does InAmigos Foundation do?",
+    "answer": "The foundation sponsors education for underprivileged children, conducts health camps with free medical check-ups, and provides vocational training for youth and women.",
+    "tags": [
+      "social work",
+      "education",
+      "health camps",
+      "vocational training",
+      "youth",
+      "women"
+    ]
+  },
+  {
+    "id": "charity-drives",
+    "question": "What charity drives does InAmigos Foundation conduct?",
+    "answer": "The foundation conducts charity drives that provide winter clothes and blankets for homeless people, medical emergency support for hospital bills, and school supplies for students in need.",
+    "tags": [
+      "charity",
+      "clothes",
+      "blankets",
+      "medical",
+      "school supplies",
+      "homeless"
+    ]
+  },
+  {
+    "id": "cleanliness-drives",
+    "question": "Does InAmigos Foundation conduct cleanliness drives?",
+    "answer": "Yes. The foundation conducts street-cleaning activities in urban and rural areas, installs dustbins and waste-segregation points, and promotes plastic-free zones using cloth and jute bags.",
+    "tags": [
+      "cleanliness",
+      "environment",
+      "waste",
+      "plastic-free",
+      "dustbins",
+      "cleaning"
+    ]
   },
   {
     "id": "covid-relief",
     "question": "What did InAmigos Foundation do during COVID-19?",
-    "answer": "During COVID-19, we distributed food to over 1,500 people, stationery to students in Kolkata, clothes across Chhattisgarh, masks and sanitizers in rural areas, food to street animals, and visited orphanages to check on residents' health and wellbeing.",
-    "tags": ["covid", "pandemic", "relief", "covid-19"]
+    "answer": "During the COVID-19 pandemic, the foundation distributed food to more than 1,500 people, stationery items to students in Kolkata, clothes in several regions of Chhattisgarh, masks and sanitizers in rural areas, and food to street animals. It also visited orphanages to check the health and wellbeing of senior residents.",
+    "tags": [
+      "covid",
+      "covid-19",
+      "relief",
+      "food",
+      "masks",
+      "sanitizers",
+      "animals"
+    ]
   },
   {
-    "id": "location",
-    "question": "Where is InAmigos Foundation located?",
-    "answer": "InAmigos Foundation is based in Bilaspur, Chhattisgarh, India — 495555. Many roles are remote/work-from-home, with some field-based volunteering opportunities near Bilaspur.",
-    "tags": ["location", "address", "where", "city", "bilaspur", "chhattisgarh", "office"]
+    "id": "covid-food",
+    "question": "How many people received food from InAmigos Foundation during COVID-19?",
+    "answer": "The foundation reports that it distributed food to more than 1,500 people during the COVID-19 pandemic.",
+    "tags": [
+      "covid",
+      "food",
+      "1500",
+      "relief"
+    ]
   },
   {
-    "id": "contact-info",
-    "question": "How can I contact InAmigos Foundation?",
-    "answer": "You can reach us at support@inamigosfoundation.org.in or info@inamigosfoundation.org.in, or through our website https://inamigosfoundation.org.in. We're also on Facebook, Instagram, LinkedIn, and X (@inamigosf).",
-    "tags": ["contact", "email", "reach", "phone", "social media"]
+    "id": "covid-support",
+    "question": "What support did InAmigos Foundation provide during the COVID-19 pandemic?",
+    "answer": "The foundation distributed food, stationery, clothes, masks, sanitizers, and food for street animals during COVID-19. It also visited orphanages to check the health and wellbeing of senior residents.",
+    "tags": [
+      "covid",
+      "relief",
+      "support",
+      "masks",
+      "sanitizers",
+      "animals",
+      "orphanages"
+    ]
   },
   {
-    "id": "greeting",
-    "question": "Hi / Hello / Hey",
-    "answer": "Hi! 👋 I'm the InAmigos Foundation assistant. I can help with questions about donating, volunteering, internships, or our programs. What would you like to know?",
-    "tags": ["hi", "hello", "hey", "greeting"]
+    "id": "internship-program",
+    "question": "Does InAmigos Foundation offer internships?",
+    "answer": "Yes. InAmigos Foundation recruits volunteers for 1–3 month internship programs across multiple domains.",
+    "tags": [
+      "internship",
+      "internships",
+      "volunteer",
+      "programs",
+      "career"
+    ]
   },
   {
-    "id": "thanks",
-    "question": "Thank you / thanks",
-    "answer": "You're very welcome! Let us know if there's anything else you'd like to know about InAmigos Foundation. 🙂",
-    "tags": ["thanks", "thank you", "appreciate"]
+    "id": "internship-duration",
+    "question": "How long are the internships at InAmigos Foundation?",
+    "answer": "The foundation's material states that its internship programs are for 1–3 months.",
+    "tags": [
+      "internship",
+      "duration",
+      "1 month",
+      "3 months",
+      "program"
+    ]
+  },
+  {
+    "id": "internship-domains",
+    "question": "What internship opportunities are available at InAmigos Foundation?",
+    "answer": "The listed internship and volunteer domains include Field Volunteer, Community Teacher, Graphic Design, Community Management, Social Work Volunteer, Content Writing, Fundraising Volunteer, Social Entrepreneurship, AI & Web Development, and Research & Analytics.",
+    "tags": [
+      "internship",
+      "internships",
+      "volunteer",
+      "careers",
+      "opportunities",
+      "domains"
+    ]
+  },
+  {
+    "id": "field-volunteer",
+    "question": "Does InAmigos Foundation offer field volunteer opportunities?",
+    "answer": "Yes. Field Volunteer is one of the internship and volunteer domains listed by InAmigos Foundation.",
+    "tags": [
+      "field volunteer",
+      "volunteer",
+      "internship",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "community-teacher",
+    "question": "Can I work as a community teacher with InAmigos Foundation?",
+    "answer": "Community Teacher is one of the internship and volunteer domains listed by InAmigos Foundation.",
+    "tags": [
+      "community teacher",
+      "teaching",
+      "education",
+      "internship",
+      "volunteer"
+    ]
+  },
+  {
+    "id": "graphic-design",
+    "question": "Does InAmigos Foundation offer graphic design internships?",
+    "answer": "Yes. Graphic Design is one of the internship and volunteer domains listed by the foundation.",
+    "tags": [
+      "graphic design",
+      "design",
+      "internship",
+      "volunteer"
+    ]
+  },
+  {
+    "id": "community-management",
+    "question": "Does InAmigos Foundation offer community management opportunities?",
+    "answer": "Yes. Community Management is one of the listed internship and volunteer domains.",
+    "tags": [
+      "community management",
+      "internship",
+      "volunteer",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "social-work-volunteer",
+    "question": "Can I volunteer for social work at InAmigos Foundation?",
+    "answer": "Yes. Social Work Volunteer is one of the listed internship and volunteer domains.",
+    "tags": [
+      "social work",
+      "volunteer",
+      "internship",
+      "community"
+    ]
+  },
+  {
+    "id": "content-writing",
+    "question": "Does InAmigos Foundation offer content writing opportunities?",
+    "answer": "Yes. Content Writing is one of the internship and volunteer domains listed by the foundation.",
+    "tags": [
+      "content writing",
+      "writing",
+      "internship",
+      "volunteer"
+    ]
+  },
+  {
+    "id": "fundraising",
+    "question": "Does InAmigos Foundation offer fundraising opportunities?",
+    "answer": "Yes. Fundraising Volunteer is one of the internship and volunteer domains listed by the foundation.",
+    "tags": [
+      "fundraising",
+      "donation",
+      "volunteer",
+      "internship"
+    ]
+  },
+  {
+    "id": "social-entrepreneurship",
+    "question": "Does InAmigos Foundation offer social entrepreneurship opportunities?",
+    "answer": "Yes. Social Entrepreneurship is one of the listed internship and volunteer domains.",
+    "tags": [
+      "social entrepreneurship",
+      "entrepreneurship",
+      "internship",
+      "volunteer"
+    ]
+  },
+  {
+    "id": "ai-web-development",
+    "question": "Does InAmigos Foundation offer AI and web development opportunities?",
+    "answer": "Yes. AI & Web Development is one of the internship and volunteer domains listed by the foundation.",
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "web development",
+      "internship",
+      "volunteer"
+    ]
+  },
+  {
+    "id": "research-analytics-internship",
+    "question": "Does InAmigos Foundation offer research and analytics opportunities?",
+    "answer": "Yes. Research & Analytics is one of the internship and volunteer domains listed by the foundation.",
+    "tags": [
+      "research",
+      "analytics",
+      "data",
+      "internship",
+      "volunteer"
+    ]
+  },
+  {
+    "id": "ai-social-good",
+    "question": "How does InAmigos Foundation use AI?",
+    "answer": "The foundation describes AI for Social Good initiatives that use AI tools to identify underserved communities, automate donation tracking, and personalize outreach campaigns.",
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "social good",
+      "technology",
+      "donations"
+    ]
+  },
+  {
+    "id": "web-content-development",
+    "question": "What web development work does InAmigos Foundation do?",
+    "answer": "The foundation describes Web Content Development involving digital platforms, NGO websites, awareness portals, and multilingual community blogs to spread social impact.",
+    "tags": [
+      "web",
+      "web development",
+      "technology",
+      "digital platforms",
+      "websites",
+      "blogs"
+    ]
+  },
+  {
+    "id": "research-analytics",
+    "question": "How does InAmigos Foundation use data analytics?",
+    "answer": "The foundation describes using data-driven insights for social programs, including measuring impact, volunteer performance, and fund utilization through dashboards.",
+    "tags": [
+      "data",
+      "analytics",
+      "research",
+      "dashboards",
+      "impact",
+      "fund utilization"
+    ]
+  },
+  {
+    "id": "digital-literacy",
+    "question": "Does InAmigos Foundation conduct digital literacy programs?",
+    "answer": "Yes. The foundation describes free workshops in rural communities teaching internet safety, MS Office, basic coding, and online opportunities.",
+    "tags": [
+      "digital literacy",
+      "technology",
+      "coding",
+      "internet safety",
+      "ms office",
+      "workshops"
+    ]
+  },
+  {
+    "id": "internship-costs",
+    "question": "What costs are associated with volunteer and intern support?",
+    "answer": "The foundation's operational information mentions stipends or reimbursements for volunteers and interns, as well as training sessions and resource materials.",
+    "tags": [
+      "intern",
+      "internship",
+      "volunteer",
+      "stipend",
+      "reimbursement",
+      "training"
+    ]
+  },
+  {
+    "id": "technical-costs",
+    "question": "What technical costs does InAmigos Foundation have?",
+    "answer": "The foundation's operational information mentions website hosting and domain costs, website maintenance and periodic updates, and online payment gateways for donation collection.",
+    "tags": [
+      "technical",
+      "website",
+      "hosting",
+      "domain",
+      "payment gateway",
+      "donation"
+    ]
+  },
+  {
+    "id": "software-tools",
+    "question": "What software and tools does InAmigos Foundation use?",
+    "answer": "The foundation's material mentions job portals such as Internshala or internship platforms and subscription fees for management tools such as CRM and HRM software.",
+    "tags": [
+      "software",
+      "tools",
+      "internshala",
+      "crm",
+      "hrm",
+      "management"
+    ]
+  },
+  {
+    "id": "compliance-costs",
+    "question": "What compliance and financial management activities does InAmigos Foundation have?",
+    "answer": "The foundation's material mentions GST filing, annual auditing, legal and government-related filings such as CSR filings and tax submissions, and renewal charges.",
+    "tags": [
+      "compliance",
+      "gst",
+      "audit",
+      "csr",
+      "tax",
+      "filing"
+    ]
+  },
+  {
+    "id": "website",
+    "question": "What is the official website of InAmigos Foundation?",
+    "answer": "The official website listed in the foundation's material is https://inamigosfoundation.org.in.",
+    "tags": [
+      "website",
+      "official website",
+      "online",
+      "contact"
+    ]
+  },
+  {
+    "id": "email-support",
+    "question": "What is the support email of InAmigos Foundation?",
+    "answer": "The support email listed in the foundation's material is support@inamigosfoundation.org.in.",
+    "tags": [
+      "email",
+      "support",
+      "contact"
+    ]
+  },
+  {
+    "id": "email-info",
+    "question": "What is the contact email of InAmigos Foundation?",
+    "answer": "The foundation's material lists info@inamigosfoundation.org.in as a contact email.",
+    "tags": [
+      "email",
+      "info",
+      "contact"
+    ]
+  },
+  {
+    "id": "facebook",
+    "question": "What is the Facebook page of InAmigos Foundation?",
+    "answer": "The Facebook page listed in the foundation's material is https://facebook.com/InAmigos/.",
+    "tags": [
+      "facebook",
+      "social media",
+      "contact"
+    ]
+  },
+  {
+    "id": "instagram",
+    "question": "What is the Instagram page of InAmigos Foundation?",
+    "answer": "The Instagram page listed in the foundation's material is https://instagram.com/inamigos/.",
+    "tags": [
+      "instagram",
+      "social media",
+      "contact"
+    ]
+  },
+  {
+    "id": "linkedin",
+    "question": "What is the LinkedIn page of InAmigos Foundation?",
+    "answer": "The LinkedIn page listed in the foundation's material is https://linkedin.com/in/inamigos-foundation-1289781b1.",
+    "tags": [
+      "linkedin",
+      "social media",
+      "contact"
+    ]
+  },
+  {
+    "id": "x-twitter",
+    "question": "What is the X Twitter account of InAmigos Foundation?",
+    "answer": "The X (Twitter) account listed in the foundation's material is https://x.com/inamigosf.",
+    "tags": [
+      "twitter",
+      "x",
+      "social media",
+      "contact"
+    ]
+  },
+  {
+    "id": "postal-location",
+    "question": "What is the address location of InAmigos Foundation?",
+    "answer": "The foundation's material lists Bilaspur, Chhattisgarh – 495555 as its location.",
+    "tags": [
+      "address",
+      "location",
+      "bilaspur",
+      "chhattisgarh",
+      "495555"
+    ]
   }
 ]

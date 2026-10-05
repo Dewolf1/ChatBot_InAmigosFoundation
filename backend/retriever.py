@@ -141,29 +141,74 @@ class FaqRetriever:
                 return PHRASE_MATCH_BOOST
         return 0.0
 
+    def _exact_tag_match(self, normalized_query: str):
+        """
+        Direct tag lookup for short conversational queries.
+        Words like 'hi', 'thanks', 'bye' are too short for TF-IDF
+        (often removed as stop words or scored near zero due to high idf).
+        This catches them by checking if any tag is an exact substring match.
+        """
+        query_words = set(normalized_query.split())
+        best_entry = None
+        best_overlap = 0
+
+        for idx, tags in enumerate(self._entry_tags):
+            tag_set = set(tags)
+            # Check if any single-word tag exactly matches a query word
+            overlap = len(query_words & tag_set)
+            # Also check if the full query matches a tag or vice versa
+            for tag in tags:
+                if tag == normalized_query or normalized_query == tag:
+                    overlap += 3  # strong boost for exact match
+                elif tag in normalized_query or normalized_query in tag:
+                    overlap += 1
+
+            if overlap > best_overlap:
+                best_overlap = overlap
+                best_entry = idx
+
+        return best_entry, best_overlap
+
     def best_match(self, query: str):
         """
         Returns (entry, score) for the closest FAQ match, or (None, 0.0) if the
         knowledge base is empty. Caller decides what to do with a low score.
 
-        Score = TF-IDF cosine similarity + an exact-tag-phrase boost (see
-        PHRASE_MATCH_BOOST above). Combining both signals before picking the
-        argmax (rather than only applying the boost to whichever entry TF-IDF
-        already preferred) matters: a phrase match can and should change which
-        entry wins, not just how confident we are in TF-IDF's original pick.
+        Uses a three-layer approach:
+        1. Exact tag match — catches short conversational queries (hi, thanks, bye)
+        2. TF-IDF cosine similarity — handles longer, keyword-rich questions
+        3. Phrase match boost — compensates for shared-vocabulary TF-IDF weakness
         """
         if not self.entries:
             return None, 0.0
 
         normalized_query = _normalize(query)
+        query_words = normalized_query.split()
+
+        # Layer 1: For very short queries (1-2 words), try exact tag match first
+        if len(query_words) <= 2:
+            tag_idx, tag_overlap = self._exact_tag_match(normalized_query)
+            if tag_idx is not None and tag_overlap >= 1:
+                return self.entries[tag_idx], 0.85  # high confidence for exact tag hit
+
+        # Layer 2: TF-IDF cosine similarity
         query_vec = self.vectorizer.transform([normalized_query])
         tfidf_scores = cosine_similarity(query_vec, self.matrix)[0]
 
+        # Layer 3: Combine with phrase match boost
         combined_scores = [
             tfidf_scores[i] + self._phrase_boost(normalized_query, i)
             for i in range(len(self.entries))
         ]
+
         best_idx = max(range(len(self.entries)), key=lambda i: combined_scores[i])
+
+        # For medium queries (3-4 words), also check tag match as a tiebreaker
+        if len(query_words) <= 4 and combined_scores[best_idx] < CONFIDENCE_THRESHOLD:
+            tag_idx, tag_overlap = self._exact_tag_match(normalized_query)
+            if tag_idx is not None and tag_overlap >= 2:
+                return self.entries[tag_idx], 0.65
+
         return self.entries[best_idx], float(combined_scores[best_idx])
 
     def answer(self, query: str):
